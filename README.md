@@ -4,6 +4,15 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 ## Setup
 
+### GIT
+
+Change the remote origin from: ```https://github.com/openai/openai-quickstart-node.git```
+```
+git remote set-url origin https://github.com/AhsenBaig-forks/openai-quickstart-node.git
+```
+
+### Node
+
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/)
 
 2. Clone this repository
